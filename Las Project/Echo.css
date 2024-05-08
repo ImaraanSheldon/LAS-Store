@@ -1,0 +1,121 @@
+body{
+  font-family: arial;
+}
+
+.container{
+  width:990px;
+  height:auto;
+  margin:auto;
+}
+.header{
+  width:990px;
+  height:100px;
+  margin:auto;
+  margin-bottom: 15px;
+  overflow: none;
+}
+.text_filled{
+  width: 990px;
+  height: 200px;
+  background-color: darkred;
+}
+.nav{
+  width: 990px;
+  height:38px;
+  margin: auto;
+  margin-bottom: 15px;
+  padding-top: 10px;
+  background-color: lightgray;
+}
+.nav a{
+  color: grey;
+  text-decoration: none;
+  padding: 13px 6px;
+  border: 1px;
+  border-color: black;
+  border-style: solid;
+  overflow: none;
+}
+.nav a:hover {
+  background-color: skyblue;
+  color: black;
+}
+
+.hero{
+  width: 990px;
+  height: 400px;
+  margin-bottom: 15px;
+  margin: auto;
+  overflow: none;
+  background-color: beige;
+}
+.meeting_txt{
+  width: 350px;
+  height: 370px;
+  margin-top: 15px;
+  background-color: white;
+}
+.meeting{
+  width: 400px;0px;
+  margin-top: 15px;
+  height: 370px;
+  margin-top: 15px;
+}
+.newsletter{
+  width: 200px;
+  height:30px;
+  margin-top: 20px;
+  margin-bottom: 15px;
+  background-color: grey;
+}
+.contact{
+  width: 500px;
+  height:30px;
+  margin-bottom: 15px;
+  background-color: lightgray;
+}
+.request_box{
+width: 200px;
+height: 370px;
+margin-top: 15px;
+margin-right:  25px;
+background-color: white;
+}
+.request_txt{
+  width: 190px;
+  height: 40px;
+  margin-left: 5px;
+  margin-top: 10px;
+  background-color: dimgrey;
+}
+.header_txt{
+  width: 300px;
+  height: 50px;
+  margin: 0px 15px;
+  background-color: black;
+}
+.header_txt2{
+  width: 300px;
+  height: 100px;
+  margin: 15px 15px;
+  background-color: black;
+}
+
+
+
+.fav{
+  width:20px;
+  height: 20px;
+}
+.f_r{
+  float: right;
+}
+.f_l{
+  float:left;
+}
+..c_l{
+  clear: left:;
+}
+.c_r{
+  clear: right;
+}
